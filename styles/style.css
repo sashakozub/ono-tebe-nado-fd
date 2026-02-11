@@ -96,10 +96,10 @@
   margin-top: auto;
   margin-bottom: 90px;
   display: flex;
-  flex-direction: column; 
-  gap: 22px; 
+  flex-direction: column;
+  gap: 22px;
   font-size: 100px;
-  line-height: 1.14; 
+  line-height: 1.14;
   letter-spacing: 0.3em;
   color: #FFF;
   text-transform: uppercase;
