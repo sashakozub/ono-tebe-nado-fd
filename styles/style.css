@@ -94,12 +94,15 @@
 
 .cover__title {
   margin-top: auto;
+  margin-bottom: 90px;
+  display: flex;
+  flex-direction: column; 
+  gap: 22px; 
   font-size: 100px;
-  line-height: 1;
+  line-height: 1.14; 
   letter-spacing: 0.3em;
   color: #FFF;
   text-transform: uppercase;
-  margin-bottom: 130px;
 }
 
 .cover__title-text {
@@ -115,8 +118,8 @@
 }
 
 .text-right {
+  display: block;
   text-align: right;
-  margin-left: 20px;
 }
 
 .cover__description {
@@ -172,7 +175,6 @@
   display: flex;
   justify-content: center;
   gap: 25px;
-  flex-wrap: wrap;
   list-style: none;
   padding: 0;
   margin-top: 27px;
