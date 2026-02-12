@@ -314,11 +314,6 @@
   display: block;
 }
 
-.address__link {
-  display: block;
-  line-height: 1.35;
-  text-decoration: underline;
-}
 
 .address__text {
   margin: 0;
@@ -344,7 +339,7 @@
 }
 
 .footer__menu-link {
-  display: block; 
+  display: block;
   text-decoration: underline;
   line-height: 1.2;
 }
